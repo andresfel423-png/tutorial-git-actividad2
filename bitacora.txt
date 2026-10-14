@@ -1,0 +1,14 @@
+BITACORA - Tutorial de Git (Actividad 2)
+Estudiante: Andres Felipe Amaya Camacho
+Docente: Carlos Andres Gomez Vasco
+Curso: Ciencia de Datos (Profesional) - UNIAGRARIA
+==========================================================
+
+[Fecha] Inicio de la actividad: cuenta de GitHub, instalacion de Git y creacion del repositorio.
+[Fecha] Repositorio clonado en el equipo local.
+
+(Agregue aqui una linea por cada avance y suba este archivo con un commit
+ distinto cada vez, por ejemplo:
+ - [Fecha] Termine el capitulo 1 (Inicio).
+ - [Fecha] Termine el capitulo 2 (Fundamentos de Git).
+ - [Fecha] Dificultad: error de autenticacion en push; solucion: token de acceso.)
